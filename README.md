@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm eduard gurchiani</h1>
 <h3 align="center">A passionate frontend developer</h3>
 ‹img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+{
+  "image": "https://user-images.githubusercontent.com/624760/91057573-48531300-e61f-11ea-9e13-2d7384e42000.png",
+  "issueId": 66,
+  "name": "Eddie Jaoude",
+  "username": "eddiejaoude"
+}
 
 - 🔭 my latest project [UQ](http://uqedu.org)
 
