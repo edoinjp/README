@@ -1,5 +1,4 @@
-[L[MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/u0a1bpLskYgrwGb11hSu2SDj_Mig8SXJ@CLCBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://banner2.cleanpng.com/20180530/jah/kisspng-github-computer-software-programmer-asus-rog-zephy-5b0e515febe1f9.2915524715276649919662.jpg))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm eduard gurchiani</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/cute-smiling-caricature-busy-coding-website-vector-illustration-cartoon_969863-835.jpg">
