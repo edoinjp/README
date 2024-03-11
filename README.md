@@ -1,6 +1,3 @@
-
-<img src="https://img.freepik.com/free-vector/green-data-technology-background-with-binary-code_53876-119581.jpg?w=2000&t=st=1710166407~exp=1710167007~hmac=afa2b7dfb89d0e3ea31c8ab66f53e0058ec9da648fdc19bfe9bae312ded66e08" alt="MasterHead" width="2000" height="250">
-
 <h1 align="center">Hi 👋, I'm eduard gurchiani</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/cute-smiling-caricature-busy-coding-website-vector-illustration-cartoon_969863-835.jpg">
